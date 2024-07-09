@@ -1,6 +1,7 @@
 # simple_whac_a_mole_game
 Simple Whac-A-Mole game in JavaScript
 
+Check out this project on this link: https://ljubicamiljkovic56.github.io/simple_whac_a_mole_game/
 
 Technologies used: HTML, CSS and JavaScript
 Note: This is a try-out of one of the YT tutorials. 
